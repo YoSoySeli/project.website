@@ -1,0 +1,9 @@
+body{
+  background-color: Maroon;
+}
+#headerImage {
+  border-style: solid;
+}
+h1{font-size:60px;
+text-align: center;}
+img{width:500px}
