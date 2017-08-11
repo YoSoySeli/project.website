@@ -1,5 +1,8 @@
 body{
   background-color: Maroon;
+  background-image: url("resources/alchemist.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 #headerImage {
   border-style: solid;
@@ -13,6 +16,61 @@ body{
 #Ed {border-style: solid;
 width: 150px;
 height: 150px;
+}
+#Win{border-style: solid;
+width: 150px;
+height: 150px;
+}
+#Lady{
+border-style: solid;
+width:150px;
+height:150px;
+}
+#Hawkeye {
+  border-style: solid;
+  width:150px;
+  height:150px;
+}
+#Hughes {
+  border-style: solid;
+  width:150px;
+  height:150px; }
+
+#Roy {
+  border-style: solid;
+  width:150px;
+  height:150px;
+}
+#Armstrong {
+  border-style: solid;
+  width:150px;
+  height:150px;
+}
+#Envy {
+  border-style: solid;
+  width:150px;
+  height:150px;
+}
+#bruh {
+  border-style: solid;
+  width:150px;
+  height:150px;
+}
+#meh {
+  border-style: solid;
+  width:160px;
+  height:160px;
+}
+
+#oh {
+  border-style: solid;
+  width:260px;
+  height:160px;
+}
+#ugh {
+  border-style: solid;
+  width:260px;
+  height:160px;
 }
 
 h1{font-size:60px;
