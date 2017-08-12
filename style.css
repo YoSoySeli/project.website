@@ -1,5 +1,8 @@
 body{
   background-color: Maroon;
+  color:pink;
+  font-family: cursive;
+  font-style: italic;
   background-image: url("resources/alchemist.jpg");
   background-repeat: no-repeat;
   background-size:cover;
@@ -72,7 +75,51 @@ height:150px;
   width:260px;
   height:160px;
 }
-
+#lady2{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#Armstrong2{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#Al3{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#Ed2{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#Hughes2{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#Roy2{
+border-style: solid;
+width:360px;
+height:260px;
+}
+#Envy2{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#Hawkeye2{
+border-style: solid;
+width:360px;
+height:160px;
+}
+#lady2{
+border-style: solid;
+width:360px;
+height:160px;
+}
 h1{font-size:60px;
 text-align: center;
 }
